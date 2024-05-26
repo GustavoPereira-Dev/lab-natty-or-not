@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Laboratórop Natty or Not (conteúdo Natural ou "parece mais não é?")
 
 ## 📒 Descrição
 Este projeto explora a visão da utilização de uma IA Generativa, que por sua vez, demonstra aspectos como criação de texto, de códigos e de imagens
